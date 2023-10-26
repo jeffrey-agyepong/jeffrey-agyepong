@@ -6,9 +6,10 @@ I specialize in creating fully responsive websites optimized for performance and
 
 Skills
 - HTML, CSS, JavaScript
+- Tailwind CSS, Bootstrap
+- Figma
 - Vue.js 
 - PHP
-- WordPress
-- Figma
-- Shopify
-- Tailwind CSS, Bootstrap
+- WordPress, Shopify
+
+
