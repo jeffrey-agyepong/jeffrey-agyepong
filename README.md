@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jeffrey Agyepong👋
 
 As a self-taught freelancer turned NAIT student based in Edmonton, Alberta, with five years of experience, I am a passionate web developer and designer with a keen eye for quality and customer satisfaction. My experience includes developing modern, user-friendly websites for small businesses, e-commerce stores, and personal portfolios.
 
