@@ -9,3 +9,6 @@ Skills
 - Vue.js 
 - PHP
 - WordPress
+- Figma
+- Shopify
+- Tailwind CSS, Bootstrap
