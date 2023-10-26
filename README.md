@@ -5,7 +5,7 @@ As a self-taught freelancer turned NAIT student based in Edmonton, Alberta, with
 I specialize in creating fully responsive websites optimized for performance and search engine rankings, using the latest technologies such as HTML, CSS, JavaScript, Vue.js, PHP, and CMS platforms like WordPress. With a focus on timely delivery and customer satisfaction, I am dedicated to providing high-quality work that exceeds client expectations. 
 
 Skills
--HTML, CSS, JavaScript
+- HTML, CSS, JavaScript
 - Vue.js 
 - PHP
 - WordPress
