@@ -19,10 +19,11 @@ I am a passionate web developer and designer with a keen eye for quality and cus
 
 
 ## Some of my work
-![international-hockey-academy-3145f8e8](https://i.ibb.co/YBhNYX3/international-hockey-academy-3145f8e8.webp)
-![ja-web-design-494d8a9c](https://i.ibb.co/XjzyjRf/ja-web-design-494d8a9c.webp)
-![rayscoinsandcurrency-com-e3d5baaf](https://i.ibb.co/pQTjq6C/rayscoinsandcurrency-com-e3d5baaf.webp)
-![vpahockey-e62ac4b9](https://i.ibb.co/DC2ww9s/vpahockey-e62ac4b9.webp)
+![international-hockey-academy-3145f8e8](https://i.ibb.co/Cw2y0Br/international-hockey-academy-3145f8e8.png)
+![Screenshot-2023-04-30-170924](https://i.ibb.co/dJzDpzG/Screenshot-2023-04-30-170924.png)
+![screenshot](https://i.ibb.co/Jd9S77t/screenshot.png)
+![vpahockey](https://i.ibb.co/93mhkjx/vpahockey.png)
+
 
 
 
