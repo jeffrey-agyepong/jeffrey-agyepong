@@ -7,9 +7,9 @@ I am a passionate web developer and designer with a keen eye for quality and cus
 - HTML, CSS, JavaScript
 - Tailwind CSS, Bootstrap
 - Figma
-- Vue.js 
+- Vue.js, Astrojs 
 - PHP
-- WordPress, Shopify
+- WordPress, WinterCMS, Shopify
 
   ## Connect With Me on the Web
 
