@@ -9,7 +9,7 @@ I am a passionate web developer and designer with a keen eye for quality and cus
 - Figma
 - Vue, Astro
 - PHP
-- WordPress, WinterCMS, Shopify
+- WordPress, CloudCannon, WinterCMS, Shopify
 
   ## Connect With Me on the Web
 
